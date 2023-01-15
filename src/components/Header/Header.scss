@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  height: 70px;
+  background: #1b1b1b;
+  border-radius: 0px 0px 8px 8px;
+  ul {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+  }
+  ul li a {
+    color: #9c9c9c;
+    font-size: 18px;
+    font-weight: 400;
+  }
+  .messengers {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+}
