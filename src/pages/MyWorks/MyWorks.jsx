@@ -14,7 +14,7 @@ const MyWorks = () => {
           <div className="left-section">
             <h3>Pizza</h3>
             <p>Сделано смотря на видео за 20 дней первый реал проект,
-              было проктировано (ReduxToolik, TypeScript)
+              была практиковано (ReduxToolik, TypeScript)
             </p>
             <a href="https://pizza-prak.netlify.app/">Перейти</a>
           </div>
