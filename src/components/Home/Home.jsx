@@ -1,5 +1,6 @@
 import React from "react";
 import iam from "../../assets/img/iam.png";
+import Resume from "../../assets/doc/Jasurbek.docx"
 import "./Home.scss";
 
 const Home = () => {
@@ -8,7 +9,7 @@ const Home = () => {
       <div className="left-select">
         <h2>Jasurbek Mansuraliev</h2>
         <p>Добро пожаловать на мой сайт портфолио</p>
-        <a href="../../assets/doc/Jasurbek.docx" download>
+        <a href={Resume} download>
           Resume
         </a>
       </div>
